@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Ada programming: off-by-one errors when iterating through arrays. The `bug.ada` file contains code with this error, while `bugSolution.ada` provides the corrected version.  Ada's strong typing helps prevent many errors, but careful index management remains crucial.
